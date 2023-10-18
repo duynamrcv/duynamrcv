@@ -3,8 +3,8 @@
 
 <br>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img align="right" width=300px height=300px alt="side_sticker" src="drone.gif" />
+<p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>About me ...</i></b></p>
 
 Duy-Nam Bui received the B.Eng. degree in Robotics Engineering from the Vietnam National University, Hanoi, Vietnam, in 2022, where he is currently pursuing the M.Sc. degree in electronics and telecommunication (robotics).
 
