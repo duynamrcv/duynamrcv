@@ -41,6 +41,7 @@ Here are some ideas to get you started:
       width="40" height="40" /> </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab"
       width="40" height="40" /> </a> </p>
+<h3>Statistics:</h3>
 
 | ![Duy Nam's github stats](https://github-readme-stats.vercel.app/api?username=duynamrcv&show_icons=true&theme=tokyonight) | ![Duy Nam GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duynamrcv&theme=tokyonight) |
 | --- | --- |
