@@ -3,7 +3,6 @@
 
 <br>
 
-<img align="right" width=300px height=300px alt="side_sticker" src="drone.gif" />
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>About me ...</i></b></p>
 
 Duy-Nam Bui received the B.Eng. degree in Robotics Engineering from the Vietnam National University, Hanoi, Vietnam, in 2022, where he is currently pursuing the M.Sc. degree in electronics and telecommunication (robotics).
@@ -42,7 +41,7 @@ Here are some ideas to get you started:
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab"
       width="40" height="40" /> </a> </p>
 <h3>Statistics:</h3>
-
-| ![Duy Nam's github stats](https://github-readme-stats.vercel.app/api?username=duynamrcv&show_icons=true&theme=tokyonight) | ![Duy Nam GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duynamrcv&theme=tokyonight) |
-| --- | --- |
-
+<p align="center">
+ <img src="https://api.githubtrends.io/user/svg/duynamrcv/langs?time_range=one_year&use_percent=True&group=other&theme=dark"/>
+ <img src="https://api.githubtrends.io/user/svg/duynamrcv/repos?time_range=one_year&group=other&theme=dark"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=duynamrcv&show_icons=true&theme=dark"/>
