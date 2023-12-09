@@ -8,6 +8,8 @@
 Duy-Nam Bui received the B.Eng. degree in Robotics Engineering from the Vietnam National University, Hanoi, Vietnam, in 2022, where he is currently pursuing the M.Sc. degree in electronics and telecommunication (robotics).
 
 His current research interests include formation control and cooperative path planning of multi-robot systems with an emphasis on coverage, and multiple target tracking.
+
+He finds satisfaction in constructing robots designed to assist people with challenging and intricate tasks, focusing on tasks like infrastructure inspection and search and rescue missions.
 <!--✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
 ✔ I’m currently learning about **deep learning**🥰<br>
