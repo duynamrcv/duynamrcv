@@ -44,6 +44,5 @@ Here are some ideas to get you started:
       width="40" height="40" /> </a> </p>
 <h3>Statistics:</h3>
 <p align="center">
- <img src="https://api.githubtrends.io/user/svg/duynamrcv/langs?time_range=one_year&use_percent=True&group=other&theme=dark"/>
- <img src="https://api.githubtrends.io/user/svg/duynamrcv/repos?time_range=one_year&group=other&theme=dark"/>
  <img src="https://github-readme-stats.vercel.app/api?username=duynamrcv&show_icons=true&theme=dark"/>
+</p>
