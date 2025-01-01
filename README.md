@@ -5,7 +5,7 @@
 
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>About me ...</i></b></p>
 
-I received the B.Eng. degree in Robotics Engineering from the Vietnam National University, Hanoi, Vietnam, in 2022, where I am currently pursuing the M.Sc. degree in electronics and telecommunication (robotics).
+I received the B.Eng. degree in Robotics Engineering, and M.Sc. degree in Electronics Engineering at the Vietnam National University, Hanoi, Vietnam, in 2022, and 2024, respectively.
 
 My current research interests include formation control and cooperative path planning of multi-robot systems with an emphasis on coverage, and multiple target tracking.
 
