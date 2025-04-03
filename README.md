@@ -5,11 +5,13 @@
 
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>About me ...</i></b></p>
 
-I received the B.Eng. degree in Robotics Engineering, and M.Sc. degree in Electronics Engineering at the Vietnam National University, Hanoi, Vietnam, in 2022, and 2024, respectively.
+I received the B.Eng. degree in Robotics Engineering, and M.Sc. degree in Electronics Engineering in 2022, and 2024, respectively, both from University of Engineering and Technology, Vietnam National University, Hanoi, Vietnam. I am currently an Automotive Embedded Engineer at VinAI Research, responsible for the control and planning modules for autonomous vehicles.
 
-My current research interests include formation control and cooperative path planning of multi-robot systems with an emphasis on coverage, and multiple target tracking.
+My research directions evolve around the efficient coordination of multi-robot systems by considering robustness, scalability, and safety. More specifically, my interests include:
+- Multi-robot systems
+- Learning and optimal control
+- Motion planning
 
-I find satisfaction in constructing robots designed to assist people with challenging and intricate tasks, focusing on tasks like infrastructure inspection, and search and rescue missions.
 <!--✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
 ✔ I’m currently learning about **deep learning**🥰<br>
@@ -33,9 +35,7 @@ Here are some ideas to get you started:
     alt="duynamrcv" /> </p>
     
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
