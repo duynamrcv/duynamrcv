@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Duy-Nam Bui</h1>
-<h3 align="center">🌟 Robotics Engineer 🌟</h3>
+<h3 align="center">🌟 Ph.D. Candidate in Automatic Control 🌟</h3>
 
 <br>
 
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>About me ...</i></b></p>
 
-I received the B.Eng. degree in Robotics Engineering, and M.Sc. degree in Electronics Engineering in 2022, and 2024, respectively, both from University of Engineering and Technology, Vietnam National University, Hanoi, Vietnam. I am currently an Automotive Embedded Engineer at VinAI Research, responsible for the control and planning modules for autonomous vehicles.
-
-My research directions evolve around the efficient coordination of multi-robot systems by considering robustness, scalability, and safety. More specifically, my interests include:
-- Multi-robot systems
-- Learning and optimal control
-- Motion planning
+I am currently a Ph.D. candidate in *Automatic Control* at Division of Automatic Control, Department of Electrical Engineering, [Linköping University](https://liu.se/en/), Linköping, Sweden, where I focus on Control of Multi-agent Networks. I received the B.Eng. degree in *Robotics Engineering* in 2022, and the M.Sc. degree in *Electronics Engineering* in 2024, both from [University of Engineering and Technology](https://uet.vnu.edu.vn/), Vietnam National University, Hanoi, Vietnam. My research interests include networked multi-agent systems, learning-based control, and optimal control.
 
 <!--✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
