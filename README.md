@@ -5,7 +5,9 @@
 
 <p><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>About me ...</i></b></p>
 
-I am currently a Ph.D. candidate in *Automatic Control* at Division of Automatic Control, Department of Electrical Engineering, [Linköping University](https://liu.se/en/), Linköping, Sweden, where I focus on Control of Multi-agent Networks. I received the B.Eng. degree in *Robotics Engineering* in 2022, and the M.Sc. degree in *Electronics Engineering* in 2024, both from [University of Engineering and Technology](https://uet.vnu.edu.vn/), Vietnam National University, Hanoi, Vietnam. My research interests include networked multi-agent systems, learning-based control, and optimal control.
+I am currently a Ph.D. candidate in *Automatic Control* at the Division of Automatic Control, Department of Electrical Engineering, [Linköping University](https://liu.se/en/), Linköping, Sweden, where I focus on the Control of Multi-agent Networks. I received my B.Eng. degree in *Robotics Engineering* in 2022 and my M.Sc. degree in *Electronics Engineering* in 2024, both from the [University of Engineering and Technology](https://uet.vnu.edu.vn/), Vietnam National University, Hanoi, Vietnam.
+
+My research interests include networked multi-agent systems, learning-based control, and optimal control.
 
 <!--✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
